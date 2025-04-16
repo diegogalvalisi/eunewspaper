@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html lang="es">
+	
+<head>  <!--
+	<meta name="apple-mobile-web-app-title" content="Site">
+	-->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" href="favicon.ico">
+	<title>Presente - Noticias globales</title>
+	<link rel="stylesheet" href="reset.min.css">
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+	<script  src="time.js"></script>
+</head>
+
+<body>
+  <header class="grid-container-elements responsive-wrapper header">
+	<div class="element-left">
+		<span id="current-day"></span>
+                    <script>
+                        let daysOfWeek = ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"];
+                  let monthsOfYear = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]; // add this line to define the names of the months
+                  let currentDate = new Date();
+                  let currentDay = daysOfWeek[currentDate.getDay()];
+                  let formattedCurrentDay = currentDay.charAt(0).toUpperCase() + currentDay.slice(1);
+                  let currentDayNum = currentDate.getDate(); // get the day of the month
+                  let currentMonth = monthsOfYear[currentDate.getMonth()]; // get the month
+                  let formattedCurrentMonth = currentMonth.charAt(0).toUpperCase() + currentMonth.slice(1); // format the month name
+                  
+                  let currentDayElement = document.getElementById("current-day");
+                  currentDayElement.innerText = formattedCurrentDay + ", " + currentDayNum + " de " + formattedCurrentMonth; // update the message to include the day and month
+                  </script>
+		
+	</div>
+	<div class="element-middle">
+	
+		
+	</div>
+	<div class="element-right">
+		<a href="https://twitter.com/presente_global" target="_blank" class="elements-link social-media-icons"><i class="fa-brands fa-twitter"></i></a>          
+        <a href="https://instagram.com/presenteglobal" target="_blank" class="elements-link social-media-icons"><i class="fa-brands fa-instagram"></i></a>
+		</div>
+</header>
+<main class="responsive-wrapper">
+	<div class="element-middle logo">
+		<a href="index.html">
+			presente.
+		<!--
+		<div id="grande">presente.</div>
+		<div id="chico">global</div>
+		-->
+		</a>
+	</div>
+	<div class="magazine-layout">
+		<div class="magazine-column">
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+					<h2 class="article-title article-title--small">
+						La vía latinoamericana de Europa
+				</h2>
+				
+				<div class="article-excerpt">
+					<p>La interrupción del diálogo político entre la Unión y la Comunidad de Estados Latinoamericanos y Caribeños (CELAC) desde 2015 fue una anomalía. Pero, ¿qué podemos esperar de la cumbre que se inaugura hoy en Bruselas?</p>
+			</div>
+			<div class="article-creditation">
+				<p><i class="fa-regular fa-at"></i> José Antonio Sanahuja, Le Grand Continent</p>
+			</div>
+			</a>
+			</article>
+			<article class="article">
+				<a href="https://www.dw.com/pt-br/desmatamento-na-amaz%C3%B4nia-cai-336-no-primeiro-semestre/a-66153263" target="_blank" class="article-link">
+					<figure class="article-img">
+						<img src="img/principal/amazonas.png">
+					</figure>
+					<h2 class="article-title article-title--small">
+						Desmatamento na Amazônia cai 33,6% no primeiro semestre
+				</h2>
+				
+				<div class="article-excerpt">
+					<p>Somente em junho, redução foi de 41%, atingindo menor nível de devastação desde 2018, apontam dados do Inpe. Ao mesmo tempo, desmatamento semestral aumenta no Cerrado</p>
+			</div>
+			<div class="article-creditation">
+				<p><i class="fa-regular fa-at"></i> Deutsche Welle</p>
+			</div>
+			</a>
+			</article>
+			<article class="article">
+				<a href="https://www.youtube.com/watch?v=EfeMyRITlPk&t=2742s" target="_blank" class="article-link">
+					
+					<h2 class="article-title article-title--small">
+						<i class="fa-brands fa-youtube"></i> Imperiofobia - Elvira Roca Barea 
+				</h2>
+				
+				<div class="article-excerpt">
+					<p>Conversamos con la académica española sobre su libro "Imperiofobia y leyenda negra: Roma, Rusia, Estados Unidos y el Imperio español", además de distintos tópicos sobre ensayismo, historia e indigenismo, entre otros </p>
+			</div>
+			<div class="article-creditation">
+				<p><i class="fa-regular fa-at"></i> Dialogos Programa</p>
+			</div>
+			</a>
+			</article>
+
+			
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+					<h2 class="article-title article-title--small">
+						Esto es un titulo mediano normal
+				</h2>
+				
+				<div class="article-creditation">
+					<p><i class="fa-regular fa-at"></i> Johnathan O'Connell, Andrew Van Dam, Aaron Gregg and Alyssa Fowers</p>
+				</div>
+				</a>
+			</article>
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+				<h2 class="article-title article-title--small">
+					Esto es un titulo mediano largo
+				</h2>
+				
+				<div class="article-creditation">
+					<p><i class="fa-regular fa-at"></i> Johnathan O'Connell, Andrew Van Dam, Aaron Gregg and Alyssa Fowers</p>
+				</div>
+				</a>
+			</article>
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+				<h2 class="article-title article-title--small">
+					Esto es un titulo mediano
+				</h2>
+				
+				<div class="article-creditation">
+					<p>By Johnathan O'Connell, Andrew Van Dam, Aaron Gregg and Alyssa Fowers</p>
+				</div>
+				</a>
+			</article>
+
+		</div>
+		<div class="magazine-column">
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+				<figure class="article-img">
+					<img src="img/principal/russia.jpg">
+				</figure>
+				<div class="breaking">En desarrollo<i class="fa-solid fa-circle fa-fade"></i></div>
+				<h2 class="article-title article-title--medium">
+					Verano en el norte: Europa bajo fuerte ola de calor, records de temperatura en China, e incendios en Canadá
+				</h2>
+				
+				<div class="article-excerpt">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu luctus massa. Nulla et urna convallis, varius elit vitae, pretium massa. Aenean vulputate, lectus vitae interdum suscipit, nulla enim viverra leo, quis tincidunt massa enim volutpat nisi</p>
+				</div>
+				</a>
+				<ul class="timeline">
+            
+					<li>
+					  <h6><span class="elapsedTime time" data-published="2023-07-18T13:00:00Z"></span> <span class="nored">Se está discutiendo la venta de granos mediante Turquía<span></h6>
+					</li>
+					<li>
+					  <h6><span class="elapsedTime time" data-published="2023-07-18T12:00:00Z"></span> <span class="nored">Kiev dice que se esta poniendo al tanto en re-establecer la venta de granos mediate otras vias</span></h6>
+					</li>
+					<li>
+					  <h6><span class="elapsedTime time" data-published="2023-07-18T11:00:00Z"></span> <span class="nored">Alemania: atacar puertos afecta a los mas necesitados</span></h6>
+					</li>
+					
+				   
+			
+				  </ul>
+			</article>
+			<!--
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+				<h2 class="article-title article-title--small">
+					Este es un titulo de medio abajo
+				</h2>
+				
+				<div class="article-excerpt">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu luctus massa. Nulla et urna convallis, varius elit vitae, pretium massa.</p>
+				</div>
+				<div class="article-author">
+					<div class="article-author-img">
+						<img src="./author-4.png">
+					</div>
+					<div class="article-author-info">
+						<dl>
+							<dt>Andres Fernandez</dt>
+							<dd>Politologo</dd>
+						</dl>
+					</div>
+				</div>
+			</a>
+			</article>
+			-->
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+					<video style="width: 100%; height: 56.25%;padding-bottom: 10px;" controls>
+						<source src="path/to/your/video.mp4" type="video/mp4">
+						Your browser does not support the video tag.
+					</video>
+				<h2 class="article-title article-title--large">
+					España 23J: principales propuestas electorales
+				</h2>
+				
+				<div class="article-excerpt">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu luctus massa. Nulla et urna convallis, varius elit vitae, pretium massa. Aenean vulputate, lectus vitae interdum suscipit, nulla enim viverra leo, quis tincidunt massa enim volutpat nisi.</p>
+				</div>
+				</a>
+			</article>
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+				
+				<h2 class="article-title article-title--small">
+					Segundo titulo mas largo pero sin imagen al costado
+				</h2>
+				
+				<div class="article-excerpt">
+					
+					<p>In nisi augue, tempor sit amet odio vel, sollicitudin vehicula mauris. Quisque ut elit vitae diam mollis mollis a non tellus. Nullam viverra volutpat lacus in lacinia. </p>
+				</div>
+				</a>
+			</article>
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+				<img src="img/principal/biden.jpg" class="img-right">
+				<h2 class="article-title article-title--small">
+					Tercer titulo corto del medio
+				</h2>
+				
+				<div class="article-excerpt">
+					
+					<p>In nisi augue, tempor sit amet odio vel, sollicitudin vehicula mauris ut</p>
+				</div>
+			</a>
+			</article>
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+				
+				<h2 class="article-title article-title--small">
+					Segundo titulo mas largo pero sin imagen al costado
+				</h2>
+				
+				<div class="article-excerpt">
+					
+					<p>In nisi augue, tempor sit amet odio vel, sollicitudin vehicula mauris. Quisque ut elit vitae diam mollis mollis a non tellus. Nullam viverra volutpat lacus in lacinia </p>
+				</div>
+				</a>
+			</article>
+		</div>
+		<div class="magazine-column">
+			<article class="article">
+				<a href="https://www.escenariomundial.com/2023/07/19/la-union-europea-y-celac-emitieron-una-historica-declaracion-conjunta-sobre-la-cuestion-malvinas/" class="article-link" target="_blank">
+				<figure class="article-img">
+					<img src="img/principal/ue-arg.png">
+				</figure>
+				<h2 class="article-title article-title--small">
+					La Unión Europea y CELAC emitieron una histórica declaración conjunta sobre la cuestión Malvinas
+				</h2>
+				<div class="article-creditation">
+					<p><i class="fa-regular fa-at"></i> Escenario Mundial</p>
+				</div>
+			</a>
+			</article>
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+				<figure class="article-img">
+					<img src="img/principal/evo.jpg">
+				</figure>
+				<h2 class="article-title article-title--small">
+					Seis mapas para entender las elecciones en España
+				</h2>
+				<div class="article-creditation">
+					<p><i class="fa-regular fa-at"></i> José Luis Marín y Álvaro Merino, EOM</p>
+				</div>
+			</a>
+			</article>
+			<article class="article">
+				<a href="https://www.bbc.com/mundo/noticias-61473343" class="article-link" target="_blank">
+				<figure class="article-img">
+					<img src="img/principal/interlingua.jpg">
+				</figure>
+				<h2 class="article-title article-title--small">
+					Interlingua: por qué seguramente entenderás esta lengua inventada aunque nunca la hayas estudiado
+				</h2>
+				<div class="article-creditation">
+					<p><i class="fa-regular fa-at"></i> Darío Brooks, BBC</p>
+				</div>
+			</a>
+			</article>
+			<article class="article">
+				<a href="https://www.atualidadeemfoco.com/2023/07/a-barbie-o-acaraje-e-globalizacao.html" target="_blank" class="article-link">
+				<h2 class="article-title article-title--small">
+					A Barbie, o acarajé e a globalização
+
+				</h2>
+				<div class="article-excerpt">
+					<p>O mundo ficou cor de rosa! Muitos amam, alguns já estão enjoados e outros simplesmente não aguentam mais. Tudo por causa do filme Barbie, que estreia no dia 20 de julho</p>
+				</div>
+				<div class="article-creditation">
+					<p><i class="fa-regular fa-at"></i> Atualidade em foco</p>
+				</div>
+			</a>
+			</article>
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+				<figure class="article-img">
+					<img src="img/principal/desfile.jpg">
+				</figure>
+				<h2 class="article-title article-title--small">
+					Esto es un titulo corto de la seccion media
+				</h2>
+				<div class="article-creditation">
+					<p><i class="fa-regular fa-at"></i> Martin Smith</p>
+				</div>
+			</a>
+			</article>
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+				<h2 class="article-title article-title--small">
+					Tercera columna
+				</h2>
+				<div class="article-excerpt">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu luctus massa.</p>
+				</div>
+			</a>
+			</article>
+		</div>
+		<div class="magazine-column">
+			<article class="article">
+				<a href="mas-alla-de-la-modernidad.html" class="article-link">
+				<h2 class="article-title article-title--small">
+					Más allá de la modernidad: ¿Sirven los viejos esquemas para responder a los desafíos actuales?
+				</h2>
+				<div class="article-excerpt">
+					<p>La meta-modernidad como un marco interpretativo del y para el futuro</p>
+				</div>
+				<div class="article-author">
+					<div class="article-author-img">
+						<img src="articulos/diego.png">
+					</div>
+					<div class="article-author-info">
+						<dl>
+							<dt>Diego Galvalisi</dt>
+							<dd>Politólogo</dd>
+						</dl>
+					</div>
+				</div>
+			</a>
+			</article>
+			<article class="article">
+				<a href="Muerte-de-Nahel-el-fracaso-del-Estado-francés-frente-a-sus-ghettos.html" class="article-link">
+				<h2 class="article-title article-title--small">
+					Muerte de Nahel: El fracaso del Estado francés frente a sus ghettos
+				</h2>
+				<div class="article-excerpt">
+					<p>El reflejo de una política de "integración" fallida, cuestión también europea</p>
+				</div>
+				<div class="article-author">
+					
+					<div class="article-author-img">
+						<img src="articulos/alex.png">
+					</div>
+					
+					<div class="article-author-info">
+						<dl>
+							<dt>Alexander Sánchez<br/> Lamour</dt>
+							<dd>Historiador</dd>
+						</dl>
+					</div>
+				</div>
+			</a>
+			</article>
+			<article class="article">
+				<a href="post-ejemplo.html" class="article-link">
+				<h2 class="article-title article-title--small">
+					Tercer titulo a la izquierda abajo
+				</h2>
+			
+				<div class="article-excerpt">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu luctus massa.</p>
+				</div>
+				<div class="article-author">
+					<div class="article-author-img">
+						<img src="./author-7.png">
+					</div>
+					<div class="article-author-info">
+						<dl>
+							<dt>James Robert</dt>
+							<dd>Editor</dd>
+						</dl>
+					</div>
+				</div>
+			</a>
+			</article>
+			
+			<article class="article">
+				<small class="article-category">
+					<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="22" viewBox="0 0 28 22">
+  <defs>
+    <clippath id="clip-headphones">
+      <rect width="28" height="22"></rect>
+    </clippath>
+  </defs>
+  <g id="headphones" clip-path="url(#clip-headphones)">
+    <g id="Group_2" data-name="Group 2" transform="translate(-3680 -609)">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M5,12H5A5.274,5.274,0,0,1,0,6.5,5.274,5.274,0,0,1,5,1V12Z" transform="translate(3680 619)"></path>
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="2" height="11" transform="translate(3686 620)"></rect>
+      <path id="Subtraction_5" data-name="Subtraction 5" d="M1.243,12H.045C.015,11.67,0,11.334,0,11A11,11,0,0,1,18.778,3.222,10.925,10.925,0,0,1,22,11c0,.331-.015.667-.045,1h-1.2a14.108,14.108,0,0,0-2.685-6.241A8.982,8.982,0,0,0,11,2,8.982,8.982,0,0,0,3.929,5.759,14.109,14.109,0,0,0,1.243,12Z" transform="translate(3683 609)"></path>
+      <path id="Subtraction_6" data-name="Subtraction 6" d="M5,0H5A5.274,5.274,0,0,0,0,5.5,5.274,5.274,0,0,0,5,11V0Z" transform="translate(3708 631) rotate(180)"></path>
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="2" height="11" transform="translate(3700 620)"></rect>
+      <path id="Path_8" data-name="Path 8" d="M.156-.031,2.125-1.687,2,2H0Z" transform="translate(3683 619)"></path>
+      <path id="Path_9" data-name="Path 9" d="M1.969-.031,0-1.687.125,2h2Z" transform="translate(3702.875 619)"></path>
+    </g>
+  </g>
+</svg>
+					<span>Post Reports / Podcast</span>
+				</small>
+				
+				<h2 class="article-title article-title--small">
+					Things to Do After 6 P.M Will Enrich <mark class="mark mark--tertiary">Your Life</mark>
+				</h2>
+				<div class="article-podcast-player">
+					<button class="podcast-play-button">
+						<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="#1A237E000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><path d="M232.3125,114.34375,88.34375,26.35937A15.99781,15.99781,0,0,0,64,40.00781V215.99219a16.00521,16.00521,0,0,0,24.34375,13.64843L232.3125,141.65625a16.00727,16.00727,0,0,0,0-27.3125Z"></path></svg>
+					</button>
+					<div class="podcast-progression">
+						
+					</div>
+					<span class="podcast-time">23:45</span>
+				</div>
+				<div class="article-podcast-info">
+					Apple Podcasts, Google Podcasts, Stitcher
+				</div>
+				
+			</article>
+		</div>
+	</div>
+</main>
+
+<footer class="responsive-wrapper">
+	<div class="grid-container-elements">
+		<div class="element-left">
+			<a href="comunicado.pdf" target="_blank" class="elements-link more-info"><i class="fa-solid fa-info"></i></a>			
+		</div>
+		<div class="element-middle">&nbsp</div>
+		<div class="element-right">
+			<a href="https://twitter.com/presente_global" target="_blank" class="elements-link social-media-icons"><i class="fa-brands fa-twitter"></i></a>          
+        <a href="https://instagram.com/presenteglobal" target="_blank" class="elements-link social-media-icons"><i class="fa-brands fa-instagram"></i></a>
+	</div>
+	
+</footer>
+  
+</body>
+</html>

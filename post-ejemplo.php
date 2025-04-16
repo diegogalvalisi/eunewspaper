@@ -1,0 +1,199 @@
+
+<!doctype html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+  <link rel="icon" type="image/png" href="favicon.png">
+
+  <title>América Latina. Espacios e impactos en el mundo de hoy &#8211; Presente</title>
+
+  <link rel="stylesheet" href="reset.min.css">
+	<link rel="stylesheet" href="articulos/style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+	<script  src="time.js"></script>
+
+  <meta name='robots' content='max-image-preview:large' />
+  <meta name="robots" content="noindex, nofollow">
+
+
+
+
+
+<body>
+
+<?php
+include 'header.php'; // Include a file named 'header.php'
+?>
+
+	<main id="primary" class="site-main post-main post">
+
+	<header class="entry-header">
+		<h1 class="entry-title">América Latina. Espacios e impactos en el mundo de hoy</h1>
+    
+        <h4>El continente latinoamericano, y sus respectivos países, atraviesan momentos difíciles en cuanto a cuestiones de desarrollo, pero sus recursos naturales, y sus alianzas claves, pueden ser oportunidades importantes en tanto a la superación de los viejos y nuevos desafíos que enfrenta el continente en este nuevo tiempo global que se está gestando</h4>			
+        <div class="entry-meta">
+				8 de noviembre de 2023
+            </div>
+
+
+			<!-- .entry-meta -->
+				
+			<div class="post-thumbnail">
+				<img src="articulos/amlat.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" />			
+        <div class="credits">
+          <i class="fas fa-camera"></i> <em>Shutterstock</em>
+
+       </div>
+            
+            </div><!-- .post-thumbnail -->
+
+				<div class="grid-container2">
+		  <div class="grid-item1">
+  <div class="article-author">
+
+  
+					<div class="article-author-img large-circle">
+					<img src="articulos/agostina.png">
+					</div>
+					<div class="article-author-info">
+						<dl>
+							<dt class="strong">Agostina Salman</dt>
+							<dt>Internacionalista</dt>
+						</dl>
+					</div>
+				</div>
+
+		
+  </div>
+  <div class="grid-item2">
+  <div class="actions">
+  
+   
+    
+				</div>
+  </div>
+</div>
+
+			
+				
+					</header><!-- .entry-header -->
+	
+	
+	
+
+				
+				
+
+
+	<div class="entry-content">
+		
+        <p>Siempre es bueno comenzar por el principio. Etimologías, orígenes de los conceptos que dan origen a nuestras ideas. Qué es América Latina. A grandes rasgos, sabemos que se trata de aquellos países del continente americano que tienen como lenguaje oficial el español, portugués, e incluso el francés, así como también ciertos rasgos identitarios comunes. América Latina es entonces una unión geográfica y lingüística, que engloba muchos países muy distintos entre sí.</p>
+
+        <p>Mayormente, escuchar o leer alguna noticia sobre la región de Latinoamérica cede un dejo amargo, despierta un sentimiento de pena. Manifestaciones sociales, descontento popular, inseguridad, desigualdad estructural. La realidad a veces trasciende el deseo de informarnos. Cotidianamente, vemos cómo la creación de empleo formal se ralentiza y los procesos inflacionarios comprometen nuestro futuro y el de nuestros hijos. Mientras tanto, observamos el retorno de partidos políticos de tintes opuestos, o la insurgencia de nuevos, disputándose promesas viejas e iguales. Esta es una de las consecuencias más visibles de sistemas económicos fallidos y democracias que parecieran quedar sumergidas en ellos. Democracias que no crecen, pero persisten, existen per se y continúan siendo nuestros principales valores a defender y sostener.</p>
+    
+        
+        <p>Según el último informe de la Organización Internacional del Trabajo sobre perspectivas sociales, el empleo que se genere en Latinoamérica a lo largo de este año solo alcanzará para compensar el crecimiento de la población en edad de empleo activo. El escenario de ralentización durante los próximos años es causa directa de la reducción en la tasa de crecimiento del producto bruto interno de la región. El contexto de incertidumbre amenaza la creación de oportunidades laborales formales y genera un mecanismo de retroalimentación, conocido como círculo vicioso, donde la ausencia de empleo formal conlleva que aquellos trabajos informales, precarizados, se conviertan en la opción predeterminada.</p>
+        
+        
+
+        <p>La comisión económica para América Latina y el Caribe advierte que los niveles de pobreza se situarán en el 32 por ciento de la población total, una cifra superior a la que se registraba antes de la pandemia de Covid-19, en el año 2019. La sucesión de varias crisis sembró un impacto negativo y desesperanzador a nivel social, fenómeno que decanta también en las migraciones masivas de la última década. Se estima que más de 200 millones de personas en América Latina están en la línea de pobreza, y el riesgo de indigencia crece año tras año.</p>
+        
+        <figure class="article-img">
+          
+            <img src="articulos/barrios-am.png">
+        </figure>
+        <div class="credits">
+            <i class="fas fa-camera"></i> PNUD Colombia / Freya Morales</em>
+  
+         </div> 
+
+        <p>Ahora bien, no podemos pensar en esta porción del planeta sin mencionar sus recursos naturales. El yin y el yang. América Latina cuenta con el 12 por ciento de la superficie mundial cultivable, aunque ha tenido problemas para traducir esta riqueza en un proceso de desarrollo económico a largo plazo. La Comisión Económica para América Latina y el Caribe plantea la necesidad de promover la gobernanza de los recursos naturales en los países pertenecientes a la región, en miras de maximizar su contribución al desarrollo con criterios de igualdad y sostenibilidad, así como de fomentar un cambio estructural a largo plazo asociado a la innovación y el desarrollo tecnológico, que al mismo tiempo reduzca la dependencia de los sectores extractivos. La gobernanza de los recursos naturales debe ser considerada como un conjunto de políticas soberanas de los países, sobre la gestión de la propiedad, la apropiación y la distribución de las rentas. Esto tiene como objetivo maximizar la contribución al desarrollo sostenible, y necesita de instituciones fuertes, capaces de afrontar los desafíos macroeconómicos, fiscales y de inversión pública pertinente.</p>
+        
+         
+       
+
+        <p>América Latina y el Caribe cuentan con un tercio de las reservas de agua dulce de todo el mundo, una quinta parte de los bosques naturales, abundante biodiversidad y ecosistemas de importancia climática global, además de vastos recursos ligados a los sectores de la minería y los hidrocarburos. En la región se concentra al menos un 49 por ciento de las reservas de plata (en Perú, Chile, Bolivia y México), 44 por ciento de las reservas de cobre (Chile, Perú y, en menor grado, México), 33 por ciento de las reservas de estaño (Perú, Brasil y Bolivia) y 22 por ciento de las reservas de hierro (Brasil, Venezuela y México), entre otros metales y minerales. Las reservas gasíferas regionales, que perdieron relevancia en la última década, hoy retoman protagonismo con la guerra en Ucrania. “La nueva Arabia Saudí del petróleo blanco”, llamó la revista Forbes a la región. Bolivia, el país con la mayor concentración de reservas de litio, con 21 millones de toneladas comprobadas, seguido de Argentina y Chile. Ese triángulo acumula casi dos tercios del total mundial de reservas, aunque produce menos de un tercio. Las dificultades que se presentan durante la extracción, que requiere insumos y tecnología avanzada, podrían ser justamente la base de nuevos acuerdos transnacionales donde ambas partes, quien pone la tierra y quien pone el dinero, sean beneficiados. Según el Banco Mundial, la producción de minerales como el grafito, el litio y el cobalto crecerán hasta 500 por ciento hacia 2050 para sustituir paulatinamente las extracciones de petróleo y satisfacer las necesidades de la transición energética a escala mundial. Actualmente, Argentina es el país con más proyectos de litio. Este escenario adulzó la puja de intereses, aunque persiste la dificultad en elaborar una estrategia común; una suerte de alianza latinoamericana que permita forjar una cadena regional de valor, un mismo diálogo que aúne intereses y permita la transferencia de conocimientos y una mayor inversión en ciencia y tecnología.</p>
+          
+        <figure class="article-img">
+          
+            <img src="articulos/recursos.png">
+        </figure>
+        <div class="credits">
+            <i class="fas fa-camera"></i> Mina de litio en Bolivia / <em>Pablo Deheza</em>
+    
+         </div>
+        
+        <p>En la pasada cumbre del cambio climático celebrada en Egipto, uno de los ejes más interesantes a mi entender, se situó en la responsabilidad de los países emisores de grandes cantidades de gases invernaderos, en pos de desarrollar sus economías y también la de los países en vías de desarrollo. Los fondos que los países más vulnerables piden por pérdidas y daños, no son los mismos que aquellos destinados a ayudar. Por ejemplo, consideramos como daños a las cosechas destruidas que eventualmente puedan volver a plantarse. Pérdidas alude a lo que ya no podría recuperarse, como el derretimiento de un glaciar. Siempre ha sido crucial que los países de Latinoamérica reciban apoyo económico, el desafío estaría entonces en lograr un financiamiento que no haga aún mayor el nivel de endeudamiento. La perspectiva es minimizar pérdidas y daños, alertar de pérdidas y daños y prevenir pérdidas y daños. Estas tres dimensiones permanecen en las conversaciones bilaterales.</p>
+
+        
+        <p>Los fondos de inversión, las ayudas y facilidades, no pueden verse como un acuerdo vacío de normas u obligaciones, ni para unos ni para otros. Son contractuales. Por ejemplo, el financiamiento puede ser otorgado en capacitación y en tecnología; al recibirlas, debemos accionar de forma certera e inteligente. El entendimiento entre todas las partes y la disposición de recursos de aquellos estados obligados por el Acuerdo de París a aportar a los países en desarrollo, deben ser claros tanto para unos como para otros.</p>
+    
+        <p>América Latina se proyecta como una de las regiones del mundo donde los efectos e impactos del cambio climático serían más intensos. Olas de calor, disminución del rendimiento de los cultivos, incendios forestales, agotamiento de arrecifes de coral y
+          fauna marina, entre otros eventos extremos del nivel del mar. En principio, resulta imprescindible reforzar el monitoreo de las amenazas climáticas, fortalecer sus sistemas de alerta temprana y ejecutar planes de acción temprana para reducir el riesgo de desastres y sus impactos en el corto plazo. Sin embargo, la evidencia muestra que los sistemas de alerta temprana están subdesarrollados en la región, particularmente en América Central y América del Sur. Los sistemas de monitoreo de riesgos específicos, como el Índice de Estrés Agrícola de Naciones Unidas para la Alimentación y la Agricultura, es un ejemplo de una herramienta útil que permite a los gobiernos emitir alertas tempranas para sectores específicos como la agricultura. Otro buen ejemplo, presente en más de un informe, es la protección de los manglares como un recurso excepcional para la adaptación y la mitigación al cambio climático, ya que este ecosistema presenta la capacidad de almacenar por lo menos tres veces más carbono que la mayoría de los bosques del planeta.</p>
+    
+    
+
+    <p>Hace muchos años se habla de las consecuencias del calentamiento global, hace no tantos las comenzamos a ver. Los glaciares han retrocedido en los Andes de Chile y Argentina, el acceso a los alimentos ha cambiado. En Guatemala, por ejemplo, las condiciones climáticas han contribuido a la pérdida cercana al 80 por ciento de la cosecha de maíz; México sufrió una baja del 50 por ciento en las cosechas debido a la sequía; cuando vacacionamos notamos la temperatura elevada del mar, los ciclones e incendios son cada vez más y en distintas regiones de los países. La sequía generalizada tuvo un impacto significativo en las rutas de navegación, el rendimiento de los cultivos y la producción de alimentos, lo que provocó un empeoramiento de la seguridad alimentaria en muchas áreas. Existe escasez de financiamiento para la acción climática, especialmente para la adaptación de los países en vías de desarrollo. Existe también falta de compromiso de nuestra parte. Esta ineficacia es agenda política actual de muchos actores internacionales, y continúa socavando la vulnerabilidad de los Estados, reduciendo la capacidad de financiar sus propias acciones.</p>
+	
+    <p>Pocos meses atrás, tuve el agrado de participar de una conferencia dada por Josep
+      Borrell en Buenos Aires, Argentina. Las palabras del alto representante para Asuntos Exteriores y Política de Seguridad, y vicepresidente de la Comisión Europea, resultaron sumamente interesantes. La unión supranacional más importante del mundo, como actor de poder real en las relaciones internacionales, retoma la idea de reconstrucción de las relaciones bilaterales entre la Unión y el mercado regional más cerrado del mundo: el latinoamericano.</p>
+
+    <p>Describiré el escenario global actual con cuatro palabras concluyentes: complejidad,
+      peligrosidad, imprevisibilidad y desigualdad. La guerra en Ucrania es quizás mi último y principal puntapié hacia los recursos naturales latinoamericanos y nuestras futuras posibilidades de desarrollo, así es nuestro mundo, algo que sucede del otro lado del mar puede influirnos de manera directa. Desde Sudamérica no dimensionamos en escala real lo que es tener una guerra interestatal en la frontera, en el patio de casa. Por otro lado, en regiones como América Latina, donde el crecimiento y desarrollo económico es el gran desafío, los asuntos medioambientales pierden protagonismo. Lo que no pierde es peligro, y necesidades inmediatas; el cambio climático no ocurrirá, está ocurriendo. En Somalia las personas huyen de la sequía, ya no pueden esperar a que llueva porque fehacientemente no ocurrirá, y es la sequía lo único que realmente impide que continúen viviendo allí, de la forma en que vivían. La crisis medioambiental empuja a la sociedad mundial a cambios estructurales.</p>
+
+      <figure class="article-img">
+          
+        <img src="articulos/UE-CELAC.png">
+    </figure>
+    <div class="credits">
+        <i class="fas fa-camera"></i> Cumbre UE-CELAC / <em>PPT_CELAC</em>
+
+     </div>
+
+    <p>Otra abscisa política y ejecutiva, europea y global, es el actual reparto del poder hacia una mayor transferencia de tecnología. Aquí entra en juego el gigante asiático. Ahora, ¿qué sucede con los países que no cuentan con margen fiscal para sobrellevar esta transformación? La periferia, los marginados, aquellos rincones donde no hay internet ni oportunidades de desarrollo. Europa puede tenerlo, pero no puede velar por todos los actores internacionales ni todos los pueblos del mundo.</p>
+
+    <p>En una esfera más sociocultural, también relacionada con la ambiental, yace un modo geopolítico distinto. Un razonamiento diferente, que implica otras cosas en juego: el fenómeno del grupismo, que busca la supervivencia y el desarrollo del grupo humano, socioeconómico, cultural o laboral, al cual respondemos por sentido de pertenencia, por encima de los demás. Esto está aparejado con la razón de estado por sobre la razón de sistema, los nacionalismos y las individualidades subyacentes. En un sistema internacional precario, bajo estas premisas, América Latina aparece nuevamente como una región ocupada en sus propias crisis, sin espacio para preocuparse por cohetes y seguridad internacional. Un actor internacional como Estados Unidos mira hacia Europa y China, mientras que América Latina piensa en sí misma -y debe hacerlo-. China ve en la región una oportunidad para invertir y transferir economía, aunque no parezca reflejarse en la actualidad.</p>
+    
+
+    <p>Según estadísticas de público acceso, la Unión Europea ha invertido más dinero en
+      América Latina que en China, Japón e India juntos. La frase siguiente fue el titular de uno de mis artículos: América Latina no es problema ni solución para la Unión Europea. Puede despertar preocupación casos como Nicaragua, Venezuela, o Cuba; o incluso también Guatemala o Bolivia, países que han sido llamados en atención desde el bloque europeo debido a cuestiones institucionales, aunque la sustitución de importación de gas en este momento, por ejemplo, es prioritaria, tras el cierre de importaciones de energía rusa. El Mercosur es un mercado regional muy cerrado, y el costo de producción lo paga el pueblo. Aquella nula integración aparece en contraposición a una de las regiones más abiertas del globo, el viejo continente. Se han firmado tratados de libre comercio entre algunos países latinoamericanos y la Unión Europea vistos como un win-win. Las pretensiones son claras: nuestro compromiso a dejar de emitir CO2 y asegurar la protección de la biodiversidad.</p>
+
+    <p>Latinoamérica es una porción del mapa hermanada con gran parte de Europa, comparte idiosincrasia, cultura, usos y costumbres que arraigan desde su llegada  a las Indias occidentales hasta las migraciones de los últimos cien años. Al mismo tiempo, comparten una desigualdad en crecimiento que se busca detener. Los primos hermanos, Argentina y Europa, no trabajan como si lo fueran. En este sentido, la creación de diálogo y alianzas es primordial. La Europa occidental representaba el 25 por ciento de la población mundial al finalizar la segunda gran guerra, hoy solo el 5. Los intereses en sostener una relación bilateral deben ser mutuos, es posible el inicio de una alianza estratégica, luego de años de invisibilidad de la región en el mainstream.</p>
+
+
+    <p>Los errores de perspectiva marcaron con irreversibilidad nuestra agenda política exterior. Por ejemplo, Argentina buscó exportar más alimentos a Europa, mientras que Europa le paga a sus propios agropecuarios para que dejen de producir por ser estadísticamente excedentarios en la producción de alimentos. Asimismo, América Latina pretendió soluciones europeas para problemas domésticos, y ve en Europa la
+      oportunidad de tener una mejor vida. Esto pudo haber alimentado el enfriamiento de las relaciones, sumado a cuestiones más importantes de atender para los europeos.
+      </p>
+
+    <p>En miras de concluir, aunque probablemente lo hayamos hecho durante todo este
+      pequeño recorrido de reflexiones, como mujer latinoamericana, creo que nos debemos la responsabilidad de asumir los nuevos desafíos geopolíticos y las consecuencias del cambio climático. Actuar desde el interior de nuestros hogares hacia las calles, exigir a nuestros gobernantes, priorizar la gran herramienta que es la educación y recordar que se educa con el ejemplo, a cada paso. Conocer nuestros recursos, revalorizarlos, reconocer que significan una oportunidad concreta en dirección al crecimiento y desarrollo de los países latinoamericanos, si quienes toman las decisiones están a la altura de cuidarlos y cuidarnos. Decisiones que deben adoptarse de manera responsable y concisa, por ejemplo respecto a la industrialización de un recurso natural de interés mundial, que dará riquezas o se diluirá, como ya ocurrió en el pasado.
+      </p>
+
+
+
+    </div><!-- .entry-content -->
+	<div class="author-div">
+  <h4 class="author-name">Agostina Salman</h4>
+  <span class="author-bio"> <i>Licenciada en Relaciones Internacionales y Magíster en Inteligencia Estratégica Nacional. Becaria FAES. Profesora, investigadora y redactora en Proyectar Nación y la Universidad Nacional de Rosario. Con foco  en temas de Medio Oriente, Unión Europea, y recursos naturales estratégicos.</i></span>
+  
+  <div class="person-social">
+ 	<a href="https://www.linkedin.com/in/agostina-salman/" target="_blank" class="social-media-icons"><i class="fa-brands fa-linkedin"></i></a> 
+    <a href="https://www.instagram.com/proyectarnacion/" target="_blank" class="social-media-icons"><i class="fa-brands fa-instagram"></i></a> 
+
+</div>
+
+</div>	
+
+	</main><!-- #main -->
+
+    <?php
+include 'footer.php'; // Include a file named 'header.php'
+?>
+
+</body>
+</html>
